@@ -4,7 +4,7 @@
   "description": "A nested, stateful status code thing for React. Based on react-document-title.",
   "main": "index.js",
   "peerDependencies": {
-    "react": "~15.3.2"
+    "react": "~15.5"
   },
   "scripts": {
     "test": "mocha",
